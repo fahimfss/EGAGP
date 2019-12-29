@@ -1,0 +1,9 @@
+noOfCycles = 2
+secondaryPopulationCount = 16
+secondaryPopulationSize = 20
+primaryPopulationSize = 50
+secondaryPopulationGenerations = 50000
+primaryPopulationGenerations = 10000
+
+                      fileName              Number of Vertex            Number of Machines                    Total Time                       Fitness
+                    G200_0.txt                           200                             6                           156           3.916890548616623E7

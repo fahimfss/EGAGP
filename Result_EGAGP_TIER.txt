@@ -1,0 +1,7 @@
+Individuals per population = 8
+Tier 1 Population Count = 512
+Tier 2 Population Count = 64
+Tier 3 Population Count = 8
+
+                      fileName              Number of Vertex            Number of Machines                    Total Time                       Fitness
+                    G200_0.txt                           200                             6                           234           3.797260139639255E7
