@@ -6,6 +6,8 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
 
+
+
 public class GAWithTiers {
     static boolean useBestGene = true;
     private static final int NO_OF_THREADS = 8;               // No of threads in the cpu where the code is run
